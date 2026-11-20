@@ -1,13 +1,17 @@
 # hinyeung-technology-product-docs
-HinYeung Technology product brochures, datasheets, images, business introduction.
+**About Hinyeung Technology Limited**
 
-Company Introduction
+Hinyeung Technology Limited was founded in 2018 by a team of PhDs from the Chinese University of Hong Kong and the University of Oxford.
 
-HinYeung Technology was founded by a PhD team from The Chinese University of Hong Kong. We focus on the R&D and industrialization of high-speed, high-resolution 3D machine vision devices and intelligent robot systems, with the mission: "Empowering humans to use robots efficiently.
+Its core R&D team brings together senior researchers from China and overseas. The company is certified as a **National High‑Tech Enterprise** and a **“Specialized, Refined, Distinctive and Innovative” Enterprise**.
 
-Key Facts
+We focus on the R&D and commercialization of high‑speed, high‑resolution 3D machine vision sensors, dexterous hands for humanoid robots, and dual‑arm humanoid robots.
+We also provide turn‑key solutions covering:
+- High‑precision visual inspection
+- Robotic loading and unloading
+- Laboratory automation
+- Patrol inspection & security
 
-- 3D camera accuracy: up to 0.5 μm (micron / sub-micron level)
-- 3D data acquisition frame rate: up to 310 FPS 
-- Applications: food, appliances, ceramics, logistics, education, new retail, automotive, 3C electronics, semiconductor 
-- Offices: Hong Kong, Shenzhen, Foshan, Suzhou 
+Our engineering and application centers are located in Shenzhen, Hong Kong, Beijing, Suzhou and Foshan.
+The company owns over 100 intellectual property rights.
+Our products are widely deployed across automotive manufacturing, the 3C industry, home‑appliance manufacturing, as well as education and scientific‑research sectors.
